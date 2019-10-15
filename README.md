@@ -14,7 +14,7 @@ NLP, N-gram model, Markov assumption, text-processing
 
 
 
-    Please follow the following example to input the command.
+ 3. Please follow the following example to input the command.
 
    '>python ngram.py 3 10 pg2554.txt pg2600.txt pg1399.txt'
     
