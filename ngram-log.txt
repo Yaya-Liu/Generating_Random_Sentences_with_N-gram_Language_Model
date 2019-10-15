@@ -1,0 +1,19 @@
+
+%script ngram-log.txt
+0.06667 minutes, python ngram.py 1 10 ['2554-0.txt', '2600-0.txt', '1399-0.txt']
+%exit
+%script ngram-log.txt
+0.3 minutes, python ngram.py 2 10 ['2554-0.txt', '2600-0.txt', '1399-0.txt']
+%exit
+%script ngram-log.txt
+0.41667 minutes, python ngram.py 3 10 ['2554-0.txt', '2600-0.txt', '1399-0.txt']
+%exit
+%script ngram-log.txt
+0.63333 minutes, python ngram.py 4 10 ['2554-0.txt', '2600-0.txt', '1399-0.txt']
+%exit
+%script ngram-log.txt
+0.41667 minutes, python ngram.py 3 10 ['2554-0.txt', '2600-0.txt', '1399-0.txt']
+%exit
+%script ngram-log.txt
+0.51667 minutes, python ngram.py 3 10 ['2554-0.txt', '2600-0.txt', '1399-0.txt', '105-8.txt', '158-0.txt']
+%exit
